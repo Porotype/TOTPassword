@@ -4,6 +4,11 @@ Two-factor authentication example with Vaadin
 
 An example using two-factor authentication (also known as two-step verification) in a Vaadin application. This allows the application to add an additional layer of security, by requiring a one-time "TOTP" password to be entered.
 
+To play around with the example project, check out the sources and import the project into your favorite IDE. To launch it locally using jetty plugin issue:
+
+```
+mvn package jetty:run
+```
 
 
 Related links
